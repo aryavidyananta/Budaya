@@ -1,0 +1,174 @@
+/*basic*/
+
+body{
+    margin:0;
+    padding: 0;
+    background: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #333;
+}
+
+.formnama{
+    font-size: 12px;
+    color: #666;
+    margin: 3px 0 10px;
+}
+
+.list{
+    margin: 0 0 10px 0;
+    padding: 5px 0;
+    border: 1px dotted #999;
+}
+
+/* loginpage */
+
+.loginpage{
+    background: #ccc;
+    padding: 20px;
+    margin: 30px auto;
+    font-size: 12px;
+    border-radius: 4px;
+}
+
+.loginpage .user{
+    margin-bottom: 20px;
+}
+
+.loginpage input {
+    width: 100%;
+    padding: 8px 0;
+    margin: 3px 0 0 0;
+    background: #efefef;
+    border: 1px solid #999;
+
+}
+.loginpage input[type="submit"]{
+    padding: 10px;
+}
+input[type="teks"].form100{
+    width: 100%
+}
+input[type="teks"]{
+    padding: 3px 0;
+    border: 1px solid #999;
+}
+input[type="Submit"]{
+    box-shadow: 0px 0px 5px #ccc;
+    border: 1px solid #999; 
+    padding: 5px 8px;
+    color: #333;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+legend{
+    font-size: 12px;
+    color: #00a6ff;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+fieldset{
+    border: 2px solid #00a6ff;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.btn{
+    padding: 3px 5px;
+    margin: 0px 3px;
+    border-radius: 3px;
+    border: 1px solid #FFF;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 8px #333;
+
+}
+
+.btn-primary {
+    background: #73b7fc;
+    color: #fff;
+}
+
+.btn-primar:hover {
+    color: #333;
+    background: #cd6469;
+
+}
+
+.w100{
+    width: 100%;
+}
+
+.w90{
+    width: 90%;
+}
+
+.w80{
+    width: 80%;
+}
+
+.w70{
+    width: 70%;
+}
+
+.w60{
+    width: 60%;
+}
+.w50{
+    width: 50%;
+}
+
+.w45{
+    width: 45%;
+}
+.w40{
+    width: 40%;
+}
+.w35{
+    width: 35%;
+}
+.w30{
+    width: 30%;
+}
+
+.w25{
+    width: 25%;
+}
+.w20{
+    width: 20%;
+}
+
+.w15{
+    width: 15%;
+}
+
+.w10{
+    width: 10%;
+}
+.w5{
+    width: 5%;
+}
+
+.fl{
+    float: left;
+}
+
+.formnama{
+    font-size: 12px;
+    color: #666;
+    margin: 3px 0 10px 0;
+}
+
+.imagesedang{
+    width: 200px;
+    height: auto;
+    position: relative;
+    float: left;
+    border: 0;
+    overflow: hidden;
+
+}
+
+.imgsedang img{
+    width: 100%;
+}
